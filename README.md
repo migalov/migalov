@@ -7,7 +7,7 @@
 
 Я начинающий веб разработчик. Мой путь в IT начался с университета, после чего я плавно пришел к frontend разработке, и начал обучаться ей самостоятельно по пути опробовав себя и в веб-дизайне.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-i1_trofimov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/migal4) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mafri.michel@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-i1_trofimov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/migal4)
 
 ---
 
