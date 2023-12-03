@@ -24,16 +24,11 @@ You can write an email here: [:e-mail:](mailto:mafri.michel@gmail.com)
 ## 🤝 Social networks:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/m-migalov/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0288D1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+    <a href="https://www.linkedin.com/in/m-migalov/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0288D1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
     <a href="https://discord.com/users/463425360386719754" target="_blank"><img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white" alt="Youtube Badge"/></a>
-    <a href="https://t.me/migal4" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-29B6F6?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
-    <a href="https://wa.me/+79099286621" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/></a>
-    <a href="viber://chat?number=%2B79099286621" target="_blank">
-    <img src="https://img.shields.io/badge/Viber-7360f2?style=for-the-badge&logo=viber&logoColor=white" alt="Viber Badge"/>
-    </a>
+    <a href="https://t.me/migal4" target="_blank"><img src="https://img.shields.io/badge/Telegram-29B6F6?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
+    <a href="https://wa.me/+79099286621" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/></a>
+    <a href="viber://chat?number=%2B79099286621" target="_blank"><img src="https://img.shields.io/badge/Viber-7360f2?style=for-the-badge&logo=viber&logoColor=white" alt="Viber Badge"/></a>
 </div>
 
 ---
