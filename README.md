@@ -62,7 +62,7 @@ You can write an email here: [:e-mail:](mailto:mafri.michel@gmail.com)
 |[Soccerr Stat](https://football-statistic.vercel.app/)|Displays data about game matches, the league and the players involved.||✅
 
 ---
-## :fire: Stats:
+## 📊 Stats:
 
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migalov&layout=compact)](https://github.com/migalov/github-readme-stats)|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=migalov)](https://github.com/migalov/github-readme-stats)|
 |---|---|
