@@ -1,12 +1,13 @@
 # Peace for everyone! 👋 My name is Michel.
 
-- [About me](#about-me)
-- [Social networks](#social-networks)
-- [Projects](#языки-и-инструменты)
-  - [Commercial Projects](#commercial-projects)
-  - [Learning and pet-projects](#learning-and-pet-projects)
-- [Stack](#stack)
-- [Tools](#tools)
+- [About me](#👦-about-me)
+- [Social networks](#🤝-social-networks)
+- [Projects](#🎯-projects)
+  - [Commercial Projects](#💼-commercial-projects)
+  - [Learning and pet-projects](#🎨-learning-and-pet-projects)
+- [Stats](#📊-stats)
+- [Stack](#💻-stack)
+- [Tools](#🛠-tools)
 
 ---
 
@@ -69,7 +70,7 @@ You can write an email here: [:e-mail:](mailto:mafri.michel@gmail.com)
 
 ---
 
-### 💻 Стек:
+## 💻 Stack:
 
 |Languages|Preprocessors|Frameworks|Project Builders|Package manager|Task management app|OS|
 |-|-|-|-|-|-|-|
@@ -80,11 +81,9 @@ You can write an email here: [:e-mail:](mailto:mafri.michel@gmail.com)
 
 ---
 
-### 🛠 Tools:
+## 🛠 Tools:
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
-
----
