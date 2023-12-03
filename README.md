@@ -36,13 +36,13 @@ You can write an email here: [:e-mail:](mailto:mafri.michel@gmail.com)
 </div>
 
 ---
-## 🎯 Проекты
-#### Обозначения
+## 🎯 Projects
+#### Marks
 - ⚠️ WIP
 - ✅ Done
 - ⬜ Postponed
 
-### 💼 Коммерческие проекты
+### 💼 Commercial Projects
 
 |Name/Link|Short description|
 |-----------------|----------------|
