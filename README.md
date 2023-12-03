@@ -10,7 +10,7 @@
 
 ---
 
-## :man: About me:
+## 👦 About me:
 
 I'm a front-end developer. My path in IT began with a part-time job at the university, where I learned website layout, and then in a commercial company, after which I came to frontend development and began to learn it on my own along the way, trying myself in web design.
 
