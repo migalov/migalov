@@ -52,9 +52,9 @@ You can write an email here: [:e-mail:](mailto:mafri.michel@gmail.com)
 |-|-|-|-|
 |[Lorem Ipsum](https://migalov.github.io/loremipsum/)|A small adaptive page with a feedback form|[📋](https://github.com/migalov/loremipsum)|✅
 |[Dadata](https://dadata-teal.vercel.app/)|Displays information about the company after entering its name.|[📋](https://github.com/migalov/dadata)|✅
-|[Treasure Hunt Game](https://treasure-hunt-pied.vercel.app/)|A simple game where the goal is to find a treasure.||✅|
-|[Gallows Gale](https://gallows-lemon.vercel.app/)|Game with guessing a word in several attempts||✅|
-|[IP Adress Tracker](https://ipadresstracker-topaz.vercel.app/)|After entering the address, it shows the location on the map.||⚠️
+|[Treasure Hunt Game](https://treasure-hunt-pied.vercel.app/)|A simple game where the goal is to find a treasure.|[📋](https://github.com/migalov/treasure_hunt)|✅|
+|[Gallows Gale](https://gallows-lemon.vercel.app/)|Game with guessing a word in several attempts|[📋](https://github.com/migalov/gallows)|✅|
+|[IP Adress Tracker](https://ipadresstracker-topaz.vercel.app/)|After entering the address, it shows the location on the map.|[📋](https://github.com/migalov/ipadresstracker)|⚠️
 |[Soccerr Stat](https://football-statistic.vercel.app/)|Displays data about game matches, the league and the players involved.|[📋](https://github.com/migalov/football-statistic/tree/draft-FTB-25)|✅
 
 ---
