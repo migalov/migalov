@@ -1,13 +1,13 @@
 # Peace for everyone! 👋 My name is Michel.
 
-- [About me](#👦-about-me)
-- [Social networks](#🤝-social-networks)
+- [About me](#about-me)
+- [Social networks](#social-networks)
 - [Projects](#🎯-projects)
-  - [Commercial Projects](#💼-commercial-projects)
-  - [Learning and pet-projects](#🎨-learning-and-pet-projects)
-- [Stats](#📊-stats)
-- [Stack](#💻-stack)
-- [Tools](#🛠-tools)
+  - [Commercial Projects](#commercial-projects)
+  - [Learning and pet-projects](#learning-and-pet-projects)
+- [Stats](#stats)
+- [Stack](#stack)
+- [Tools](#tools)
 
 ---
 
@@ -38,7 +38,7 @@ You can write an email here: [:e-mail:](mailto:mafri.michel@gmail.com)
 - ✅ Done
 - ⬜ Postponed
 
-### 💼 Commercial Projects
+### Commercial Projects
 
 |Name/Link|Short description|
 |-----------------|----------------|
@@ -47,7 +47,7 @@ You can write an email here: [:e-mail:](mailto:mafri.michel@gmail.com)
 |[Avermedia](https://avermedia.com/ru)|Online store selling presentation multimedia equipment: TV tuners, video surveillance systems, cameras, digital converters|
 |[Scarlett](https://www.scarlett.ru)|Online store selling small household appliances|
 
-### 🎨 Learning and pet-projects
+### Learning and pet-projects
 |Name/Link|Short description|Readme|Status|
 |-|-|-|-|
 |[Lorem Ipsum](https://migalov.github.io/loremipsum/)|A small adaptive page with a feedback form|[📋](https://github.com/migalov/loremipsum)|✅
@@ -58,14 +58,14 @@ You can write an email here: [:e-mail:](mailto:mafri.michel@gmail.com)
 |[Soccerr Stat](https://football-statistic.vercel.app/)|Displays data about game matches, the league and the players involved.|[📋](https://github.com/migalov/football-statistic/tree/draft-FTB-25)|✅
 
 ---
-## 📊 Stats:
+## Stats:
 
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migalov&layout=compact)](https://github.com/migalov/github-readme-stats)|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=migalov)](https://github.com/migalov/github-readme-stats)|
 |---|---|
 
 ---
 
-## 💻 Stack:
+## Stack:
 
 |Languages|Preprocessors|Frameworks|Project Builders|Package manager|Task management app|OS|
 |-|-|-|-|-|-|-|
@@ -73,7 +73,7 @@ You can write an email here: [:e-mail:](mailto:mafri.michel@gmail.com)
 
 ---
 
-## 🛠 Tools:
+## Tools:
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
