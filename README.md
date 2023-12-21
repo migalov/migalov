@@ -2,7 +2,7 @@
 
 - [About me](#about-me)
 - [Social networks](#social-networks)
-- [Projects](#🎯-projects)
+- [Projects](#projects)
   - [Commercial Projects](#commercial-projects)
   - [Learning and pet-projects](#learning-and-pet-projects)
 - [Stats](#stats)
@@ -11,7 +11,7 @@
 
 ---
 
-## 👦 About me:
+## About me:
 
 I'm a front-end developer. My path in IT began with a part-time job at the university, where I learned website layout, and then in a commercial company, after which I came to frontend development and began to learn it on my own along the way, trying myself in web design.
 
@@ -21,7 +21,7 @@ You can write an email here: [:e-mail:](mailto:mafri.michel@gmail.com)
 
 ---
 
-## 🤝 Social networks:
+## Social networks:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/m-migalov/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0288D1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
@@ -32,7 +32,7 @@ You can write an email here: [:e-mail:](mailto:mafri.michel@gmail.com)
 </div>
 
 ---
-## 🎯 Projects
+## Projects
 #### Marks
 - ⚠️ WIP
 - ✅ Done
